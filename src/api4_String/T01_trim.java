@@ -1,6 +1,6 @@
-package api2_String;
+package api4_String;
 
-public class T1_trim {
+public class T01_trim {
 	public static void main(String[] args) {
 		String str1 = "    안   녕   ";
 		String res;

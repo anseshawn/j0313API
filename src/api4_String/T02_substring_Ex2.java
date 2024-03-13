@@ -1,9 +1,9 @@
-package api2_String;
+package api4_String;
 
 import java.util.Scanner;
 //indexOf(찾고자하는문자, 시작위치)
 
-public class T2_substring_Ex2 {
+public class T02_substring_Ex2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		//            0         1         2

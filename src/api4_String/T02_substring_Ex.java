@@ -1,8 +1,8 @@
-package api2_String;
+package api4_String;
 
 import java.util.Scanner;
 
-public class T2_substring_Ex {
+public class T02_substring_Ex {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		//            0         1         2

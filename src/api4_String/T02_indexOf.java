@@ -1,6 +1,6 @@
-package api2_String;
+package api4_String;
 
-public class T2_indexOf {
+public class T02_indexOf {
 	public static void main(String[] args) {
 		//             0         1         2
 		//             012345678901234567890  :헷갈릴때 숫자부여
